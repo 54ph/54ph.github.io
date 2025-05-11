@@ -1,17 +1,6 @@
-body {
-    font-family: tahoma, sans-serif;
-}
-
 div.main-content {
     position: absolute;
     left: 50px;
-    width: 450px;
-    height: 120px;
-}
-
-div.news {
-    position: absolute;
-    right: 50px;
     width: 450px;
     height: 120px;
 }
