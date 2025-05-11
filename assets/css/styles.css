@@ -2,8 +2,34 @@ body {
     font-family: tahoma, sans-serif;
 }
 
+div.main-content {
+    position: absolute;
+    left: 50px;
+    width: 450px;
+    height: 120px;
+}
+
+div.news {
+    position: absolute;
+    right: 50px;
+    width: 450px;
+    height: 120px;
+}
+
+div.news {
+    position: absolute;
+    right: 50px;
+    width: 550px;
+    height: 120px;
+}
+
 h1 {
-    color: #f8c8dc;
+    color: #ffb6c1;
+    font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+}
+
+h2 {
+    color: #8bd3e6;
     font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
 }
 
@@ -21,7 +47,7 @@ a {
 }
 
 .topnav {
-    background-color: #f8c8dc;
+    background-color: #ffb6c1;
     overflow: hidden;
 }
 
