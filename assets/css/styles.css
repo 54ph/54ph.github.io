@@ -3,22 +3,23 @@ body {
 }
 
 h1 {
+    color: #f8c8dc;
+    font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+}
+
+.centered {
     text-align: center;
 }
 
-h2 {
-    text-align: center
-}
-
-p.centered {
-    text-align: center;
+p {
+    font-family: tahoma, sans-serif;
+    font-size: 11px;
 }
 
 a {
     color: #ffb6c1;
 }
 
-/* Add a black background color to the top navigation */
 .topnav {
     background-color: #f8c8dc;
     overflow: hidden;
@@ -26,12 +27,13 @@ a {
 
 /* Style the links inside the navigation bar */
 .topnav a {
+    font-family: tahoma, sans-serif;
     float: left;
     color: black;
     text-align: center;
-    padding: 7px 8px;
+    padding: 5px 5px;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 /* Change the color of links on hover */
