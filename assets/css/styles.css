@@ -5,25 +5,31 @@ div.main-content {
     height: 120px;
 }
 
-div.news {
-    position: absolute;
-    right: 50px;
-    width: 550px;
-    height: 120px;
-}
-
 h1 {
     color: #ffb6c1;
     font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
 }
 
-.blue {
-    color: #8bd3e6;
+h2 {
+    font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+}
+
+h3 {
+    font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+}
+
+h4 {
     font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
 }
 
 .centered {
     text-align: center;
+}
+
+.bottomright {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
 }
 
 p {
