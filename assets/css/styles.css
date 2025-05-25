@@ -5,6 +5,14 @@ div.main-content {
     height: 120px;
 }
 
+div.news {
+    position: absolute;
+    right: 50px;
+    width: 450px;
+    height: 120px;
+    text-align: right;
+}
+
 h1 {
     color: #ffb6c1;
     font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
